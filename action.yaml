@@ -1,6 +1,6 @@
-name: 'GitHub Action for Firebase'
-author: 'Jeremy Shore'
-description: 'Wraps the firebase-tools CLI to enable common commands.'
+name: 'GitHub Action for Firebase (node 16)'
+author: 'Jeremy Shore (forked by PVAGPG)'
+description: 'Wraps the firebase-tools CLI to enable common commands. Uses node 16.'
 branding:
   icon: 'package'
   color: 'gray-dark'
