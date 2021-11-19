@@ -1,11 +1,11 @@
-FROM node:14.18.1-buster
+FROM node:16.13.0-buster
 
 LABEL version="1.2.3"
 LABEL repository="https://github.com/w9jds/firebase-action"
 LABEL homepage="https://github.com/w9jds/firebase-action"
 LABEL maintainer="Jeremy Shore <w9jds@github.com>"
 
-LABEL com.github.actions.name="GitHub Action for Firebase"
+LABEL com.github.actions.name="GitHub Action for Firebase (Node 16)"
 LABEL com.github.actions.description="Wraps the firebase-tools CLI to enable common commands."
 LABEL com.github.actions.icon="package"
 LABEL com.github.actions.color="gray-dark"
